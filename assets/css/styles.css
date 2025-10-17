@@ -1,0 +1,6 @@
+:root { --accent: #0b7; }
+.page-header { background: linear-gradient(125deg, #0bb, #0b7); }
+.main-content h2, .main-content h3 { margin-top: 2rem; }
+.badge { display:inline-block; padding:.1rem .5rem; border-radius:999px; background:#eee; font-size:.8rem; }
+.callout { border-left: 4px solid var(--accent); padding: .8rem 1rem; background: #f6fffb; }
+.card { border:1px solid #e6e6e6; border-radius:12px; padding:1rem; margin:1rem 0; }
